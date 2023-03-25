@@ -2,6 +2,7 @@
   "name": "slidev",
   "private": true,
   "scripts": {
+    "prebuild": "npx tsc index.ts & node index.js & rm index.js",
     "build": "slidev build",
     "dev": "slidev --open",
     "export": "slidev export"
@@ -13,6 +14,8 @@
   },
   "devDependencies": {
     "@rollup/plugin-alias": "^4.0.3",
-    "@types/node": "^18.14.0"
+    "@types/node": "^18.14.0",
+    "playwright-chromium": "^1.32.0",
+    "typescript": "^5.0.2"
   }
 }
