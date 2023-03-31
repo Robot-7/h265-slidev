@@ -1,5 +1,6 @@
 ---
 theme: default
+transition: slide-left
 ---
 
 ### 编码
