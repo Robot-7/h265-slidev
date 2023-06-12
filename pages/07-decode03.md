@@ -1,7 +1,7 @@
 ---
 theme: default
 ---
-### 软解
+### 软解 + WebCodecs解码
 
 ### 浏览器解码H265数据
   
