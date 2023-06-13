@@ -95,11 +95,11 @@ src: ./pages/07-decode03.md
 ---
 
 ---
-src: ./pages/07-title05.md
+src: ./pages/07-decode04-webcodecs.md
 ---
 
 ---
-src: ./pages/07-title06.md
+src: ./pages/07-title05.md
 ---
 
 ---
